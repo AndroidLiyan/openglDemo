@@ -1,4 +1,4 @@
-# openglDemo
+# OpenglDemo
 OpenGL from Android
 
 本项目是使用OpenGL+GLSurfaceView+Camera 来实现使用Camera采集数据，通过OpenGL渲染到GLSurfaceView显示。
